@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+	<h3> ### Hi there, I'm <a href="http://ivantomic.com">LogIN!</a> </h3>
+	<br />
 
-<!--
-**LogIN-/LogIN-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
+	![](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a42e2b)
+	![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
+	![](https://img.shields.io/badge/Philosophy-FOSS-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my github page! I am software engineer interested in many things.
+
+<br />
+<br />
+
+<img align="right" height="185" alt="GIF" src="https://media.tenor.com/images/1b841115df8c24772cac95398cc07c6a/tenor.gif"/>
+
+- 💻
+- ☹☺☻☃☠
+- ☢☣⚝⚛
+- ☤⚕⚒⚓⚙⚜
+
