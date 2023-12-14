@@ -16,7 +16,7 @@ A not-so-serious introspection penned amidst the digital chaos...
 
 by LogIN;
 
-Welcome to my world, a curious blend of code, caffeine, and a dash of Balkan humor. Here, every keystroke is a step into the unknown, much like finding a parking spot in downtown Belgrade.
+Welcome to my world, a curious blend of code, caffeine, and a dash of Balkan humor. Here, every keystroke is a step into the unknown, much like finding a parking spot in downtown Rijeka.
 
 I tread the road less traveled – mostly because it's less crowded. In the realms of Linux and zsh, I find my zen, and Sublime is my trusty sidekick, slicing through code like a hot knife through ajvar.
 
